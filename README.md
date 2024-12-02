@@ -1,19 +1,26 @@
 ## Hi there 👋
+✨ Welcome to my GitHub! ✨
 
-<!--
-**ChristinaManara/ChristinaManara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Christina Manara**, a **Machine Learning Engineer** passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning...
+- Advanced techniques in **Natural Language Processing (NLP)** with tools like **Transformers**, **LangChain**, and **LlamaIndex**.
+- Exploring **generative AI frameworks** and their integration with real-world applications.
+
+---
+
+### 👯 I’m looking to collaborate on...
+- Machine learning research projects that push boundaries in **deep learning**, **neurorehabilitation**, and **brain-computer interfaces**.
+- Real-time big data processing and predictive modeling challenges.
+
+---
+
+### ⚡ Fun fact:
+When I'm not immersed in AI and coding, you’ll find me:
+- Playing **tennis** 🎾
+- Creating **ceramic art** 🏺
+- Exploring the world of **books and podcasts** 📚🎙
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -94,3 +101,24 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 </div>
+
+<!--Contact Section--> 
+### 🤝 &nbsp; Connect With Me
+<div align="center">
+ <a href="https://www.linkedin.com/in/christina-manara" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:christinamanara2@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="christinamanara2@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/ChristinaManara" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
