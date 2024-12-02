@@ -1,45 +1,46 @@
-<!-- Add this link to the top of your file -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<!-- Header Section -->
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
 
-<h1 align="center">
+<h1 align="center" style="font-family: 'Fira Code', monospace;">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 18px;">
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px;">
 ✨ Welcome to my GitHub! ✨
 </p>
 
-<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 16px;">
 I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
 </p>
 
 ---
 
-<h2 style="font-family: 'Roboto', sans-serif;">🌱 I’m currently learning...</h2>
-<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+<h2 style="font-family: 'Fira Code', monospace;">🌱 I’m currently learning...</h2>
+<ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
   <li>Advanced techniques in <b>Natural Language Processing (NLP)</b> with tools like <b>Transformers</b>, <b>LangChain</b>, and <b>LlamaIndex</b>.</li>
   <li>Exploring <b>generative AI frameworks</b> and their integration with real-world applications.</li>
 </ul>
 
 ---
 
-<h2 style="font-family: 'Roboto', sans-serif;">👯 I’m looking to collaborate on...</h2>
-<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+<h2 style="font-family: 'Fira Code', monospace;">👯 I’m looking to collaborate on...</h2>
+<ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
   <li>Machine learning research projects that push boundaries in <b>deep learning</b>, <b>neurorehabilitation</b>, and <b>brain-computer interfaces</b>.</li>
   <li>Real-time big data processing and predictive modeling challenges.</li>
 </ul>
 
 ---
 
-<h2 style="font-family: 'Roboto', sans-serif;">⚡ Fun fact:</h2>
-<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+<h2 style="font-family: 'Fira Code', monospace;">⚡ Fun fact:</h2>
+<ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
   <li>When I'm not immersed in AI and coding, you’ll find me:</li>
   <li>Playing <b>tennis</b> 🎾</li>
   <li>Creating <b>ceramic art</b> 🏺</li>
   <li>Exploring the world of <b>books and podcasts</b> 📚🎙</li>
 </ul>
+
 
 ```diff
 +------------------------------------------------------+
