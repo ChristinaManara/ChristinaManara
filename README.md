@@ -53,6 +53,16 @@ I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about
 |    Trust the process!                                |
 +------------------------------------------------------+
 ```
+
+## ⚙️ &nbsp; Git Analytics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristinaManara&theme=dark&show_icons=true" alt="GitHub Stats for Christina Manara" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaManara&theme=dark&layout=compact" width="410" alt="Top Languages Used by Christina Manara" />
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 <div align="center">
