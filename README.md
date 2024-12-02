@@ -25,8 +25,8 @@ I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about
 
 <h2 style="font-family: 'Fira Code', monospace;">👯 I’m looking to collaborate on...</h2>
 <ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
+  <li>Eager to deep dive into <b>Computational and Cognitive Neuroscience</b></li>
   <li>Machine learning research projects that push boundaries in <b>deep learning</b>, <b>neurorehabilitation</b>, and <b>brain-computer interfaces</b>.</li>
-  <li>Real-time big data processing and predictive modeling challenges.</li>
 </ul>
 
 <h2 style="font-family: 'Fira Code', monospace;">⚡ Fun fact:</h2>
