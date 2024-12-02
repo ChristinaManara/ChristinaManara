@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
 ✨ Welcome to my GitHub! ✨
 
 I'm **Christina Manara**, a **Machine Learning Engineer** passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
@@ -22,6 +27,21 @@ When I'm not immersed in AI and coding, you’ll find me:
 - Creating **ceramic art** 🏺
 - Exploring the world of **books and podcasts** 📚🎙
 
+```diff
++------------------------------------------------------+
+|                                                      |
+|    ⌨️  Code is like humor.                           |
+|     If you have to explain it, it's bad.             |
+|                                                      |
+|    +--------------------------------------------+    |
+|    | while ( !success ) {                       |    |
+|    |     try();                                 |    |
+|    |     catch (mistakes) { learn(); }          |    |
+|    +--------------------------------------------+    |
+|                                                      |
+|    Trust the process!                                |
++------------------------------------------------------+
+```
 ### 🛠 &nbsp;Tech Stack
 
 <div align="center">
