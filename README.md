@@ -15,7 +15,6 @@
 I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
 </p>
 
----
 
 <h2 style="font-family: 'Fira Code', monospace;">🌱 I’m currently learning...</h2>
 <ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
@@ -23,15 +22,12 @@ I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about
   <li>Exploring <b>generative AI frameworks</b> and their integration with real-world applications.</li>
 </ul>
 
----
 
 <h2 style="font-family: 'Fira Code', monospace;">👯 I’m looking to collaborate on...</h2>
 <ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
   <li>Machine learning research projects that push boundaries in <b>deep learning</b>, <b>neurorehabilitation</b>, and <b>brain-computer interfaces</b>.</li>
   <li>Real-time big data processing and predictive modeling challenges.</li>
 </ul>
-
----
 
 <h2 style="font-family: 'Fira Code', monospace;">⚡ Fun fact:</h2>
 <ul style="font-family: 'Fira Code', monospace; font-size: 16px;">
