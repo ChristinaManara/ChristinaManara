@@ -1,31 +1,45 @@
+<!-- Add this link to the top of your file -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
+<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 18px;">
 ✨ Welcome to my GitHub! ✨
+</p>
 
-I'm **Christina Manara**, a **Machine Learning Engineer** passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
-
-
-### 🌱 I’m currently learning...
-- Advanced techniques in **Natural Language Processing (NLP)** with tools like **Transformers**, **LangChain**, and **LlamaIndex**.
-- Exploring **generative AI frameworks** and their integration with real-world applications.
+<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about building cutting-edge AI solutions, leveraging big data, and developing innovative ML systems that drive impact.
+</p>
 
 ---
 
-### 👯 I’m looking to collaborate on...
-- Machine learning research projects that push boundaries in **deep learning**, **neurorehabilitation**, and **brain-computer interfaces**.
-- Real-time big data processing and predictive modeling challenges.
+<h2 style="font-family: 'Roboto', sans-serif;">🌱 I’m currently learning...</h2>
+<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+  <li>Advanced techniques in <b>Natural Language Processing (NLP)</b> with tools like <b>Transformers</b>, <b>LangChain</b>, and <b>LlamaIndex</b>.</li>
+  <li>Exploring <b>generative AI frameworks</b> and their integration with real-world applications.</li>
+</ul>
 
 ---
 
-### ⚡ Fun fact:
-When I'm not immersed in AI and coding, you’ll find me:
-- Playing **tennis** 🎾
-- Creating **ceramic art** 🏺
-- Exploring the world of **books and podcasts** 📚🎙
+<h2 style="font-family: 'Roboto', sans-serif;">👯 I’m looking to collaborate on...</h2>
+<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+  <li>Machine learning research projects that push boundaries in <b>deep learning</b>, <b>neurorehabilitation</b>, and <b>brain-computer interfaces</b>.</li>
+  <li>Real-time big data processing and predictive modeling challenges.</li>
+</ul>
+
+---
+
+<h2 style="font-family: 'Roboto', sans-serif;">⚡ Fun fact:</h2>
+<ul style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+  <li>When I'm not immersed in AI and coding, you’ll find me:</li>
+  <li>Playing <b>tennis</b> 🎾</li>
+  <li>Creating <b>ceramic art</b> 🏺</li>
+  <li>Exploring the world of <b>books and podcasts</b> 📚🎙</li>
+</ul>
 
 ```diff
 +------------------------------------------------------+
