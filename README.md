@@ -57,13 +57,13 @@ I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about
 ## ⚙️ &nbsp; Git Analytics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristinaManara&theme=dark&show_icons=true" alt="GitHub Stats for Christina Manara" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristinaManara&theme=great-gatsby&count_private=true&include_all_commits=true)" alt="GitHub Stats for Christina Manara" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaManara&theme=dark&layout=compact" width="410" alt="Top Languages Used by Christina Manara" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaManara&theme=great-gatsby&count_private=true&include_all_commits=true)" width="410" alt="Top Languages Used by Christina Manara" />
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp; Tech Stack
 
 <div align="center">
 
@@ -144,20 +144,19 @@ I'm <b>Christina Manara</b>, a <b>Machine Learning Engineer</b> passionate about
 </div>
 
 <!--Contact Section--> 
-### 🤝 &nbsp; Connect With Me
-<div align="center">
- <a href="https://www.linkedin.com/in/christina-manara" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; Connect With Me
 
-<a href="mailto:christinamanara2@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="christinamanara2@gmail.com" style="margin-bottom: 5px;" />
+<p align="center">
+<a href="https://linkedin.com/in/christina-manara" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christina Manara LinkedIn" height="30" width="40" />
 </a>
-
-<a href="https://github.com/ChristinaManara" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+<a href="mailto:christinamanara2@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Christina Manara Gmail" height="30" width="40" />
 </a>
-</div>
+<a href="https://github.com/ChristinaManara" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Christina Manara GitHub" height="30" width="40" />
+</a>
+</p>
 
 <!--Footer--> 
 <p align="center">
